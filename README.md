@@ -13,7 +13,7 @@ This course is devoted to students from both Computer Science and Fashion studie
 ## Course Program
 
 
-| Data  | Argomento | Docente | Slide| Materiale pratico |
+| Data  | Argomento | Docente | Slide| Practical material |
 | ------------- | ------------- | ------------- |-----------------------------------------------------------------------------------------------------------------| ------------- |
 | 14/03/2022  | Introduction | [Lorenzo Stacchio](https://www.unibo.it/sitoweb/lorenzo.stacchio2) | [00_intro.pdf](00_course_intro/00_intro.pdf)                                                   | Not present |
 | 15/03/2022  | Ai for fashion | [Lorenzo Stacchio](https://www.unibo.it/sitoweb/lorenzo.stacchio2) | [01_AI_fashion](01_AI_fashion/01_intro_ai_fashion.pdf)                                                   | Not present |
