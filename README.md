@@ -1,4 +1,7 @@
 # AI-For-Fashion
+<p align="right">
+<a><img src="https://visitor-badge.laobi.icu/badge?page_id=lorenzo-stacchio.AI-For-Fashion" alt="visitors"></a>
+</p>
 
 <p align="center">
   <img width="300" height="300" src="imgs/icon.png">
