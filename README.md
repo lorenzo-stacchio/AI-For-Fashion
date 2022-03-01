@@ -4,6 +4,12 @@
   <img width="300" height="300" src="imgs/icon.png">
 </p>
 
+## Description
+This is my fourse full course as a teacher at the University of Bologna. It regards the adoption of classical and novel AI-based technologies in the field of fashion. 
+Despite expectations, the field of fashion is challenging from an AI perspective, since it involves the development of models to achieve tasks, such as Image Classsification, Clustering and Retrieval, but also Trend Forecasting, Sentiment analysis and many others. So, it is touched by different AI subfields, such as  Computer Vision, Natural Language process and Time series analysis.
+This course is devoted to students from both Computer Science and Fashion studies, who want to learn the classical and the novel paradigms applied to solve some of this tasks.
+
+
 ## Course Program
 
 
