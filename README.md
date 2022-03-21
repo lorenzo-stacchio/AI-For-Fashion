@@ -9,12 +9,25 @@
 
 ## Description
 
-This course regards the adoption of classical and novel AI-based technologies in the field of fashion. 
+This course regards the adoption of classical and novel AI-based technologies in the field of fashion.
+
 Despite expectations, the field of fashion is challenging from an AI perspective, since it involves the development of models to achieve tasks, such as Image Classsification, Clustering and Retrieval, but also Trend Forecasting, Sentiment analysis and many others. So, it is touched by different AI subfields, such as  Computer Vision, Natural Language process and Time series analysis.
+
 This course is devoted to students from both Computer Science and Fashion studies, who want to learn the classical and the novel paradigms applied to solve some of this tasks.
 
 This is my first full-course at the [University of Bologna](https://www.unibo.it/it), at the [Department for Life Quality Studies](https://scienzequalitavita.unibo.it/it) and, to the best of my knowledge, **the first open-source repository of a University Course on Artificial Intelligence For Fashion.** 
 
+## Textbooks
+The main textboook adopted in this course is:
+
+```
+@book{luce2018artificial,
+  title={Artificial intelligence for fashion: How AI is revolutionizing the fashion industry},
+  author={Luce, Leanne},
+  year={2018},
+  publisher={Apress}
+}
+```
 
 ## Course Program
 
@@ -26,6 +39,6 @@ This is my first full-course at the [University of Bologna](https://www.unibo.it
 | 21/03/2022 <br> 22/03/2022 | Python programming & data analysis tools | [Lorenzo Stacchio](https://www.unibo.it/sitoweb/lorenzo.stacchio2) | [02_python_programming.pdf](02_python/02_python_programming.pdf)| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1cEN-sJeTN6tY1IIbFbqL71THCK3Ymoht?usp=sharing) |
 <!---| 28/03/2022  | Data visualization and Orange | [Alessia Angeli](https://www.unibo.it/sitoweb/alessia.angeli2) | [04_visualization.pdf](04_visualization/04_visualization.pdf)| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]() |
 | 29/03/2022  | Python and ML Classification with sklearn| [Lorenzo Stacchio](https://www.unibo.it/sitoweb/lorenzo.stacchio2) | [03_Classificazione.pdf](03_classificazione_python/03_Classificazione.pdf)| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/126z5HVvMpD1p2YEisxz6yR7wFKlQwcH8?usp=sharing) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1j1DfbZfINXmmWpop2CK0okEfbGT98AE4?usp=sharing) |
-| 04/04/2022  | Orange introduction | [Lorenzo Stacchio](https://www.unibo.it/sitoweb/lorenzo.stacchio2) | [05_Orange.pdf](05_orange/05_Orange.pdf)                                                   | [![Open in One Drive](https://custom-icon-badges.herokuapp.com/badge/Open%20in%20One%20Drive-blue.svg?logo=od)](https://liveunibo-my.sharepoint.com/:f:/g/personal/lorenzo_stacchio_studio_unibo_it/ElR6_WxCsXdFjQRF4CTG6TcB_DP5QudtQcY-7vOIs_-A4Q?e=Pe2uCG)|
-| 05/04/2022  | Orange image classification | [Lorenzo Stacchio](https://www.unibo.it/sitoweb/lorenzo.stacchio2) | [06_Orange.pdf](06_orange_classification/06_Orange_classification.pdf)                                                   | [![Open in One Drive](https://custom-icon-badges.herokuapp.com/badge/Open%20in%20One%20Drive-blue.svg?logo=od)](https://liveunibo-my.sharepoint.com/:f:/g/personal/lorenzo_stacchio_studio_unibo_it/Ejpi9KHlG1xLr0ou_1yoQiUBdYcD4P0N9R0BOeM7CCbM5g?e=xThQVj)|
+| 04/04/2022  | Orange introduction | [Lorenzo Stacchio](https://www.unibo.it/sitoweb/lorenzo.stacchio2) | [05_Orange.pdf](05_orange/05_Orange.pdf)                                                   | [![Open in One Drive](https://custom-icon-badges.herokuapp.com/badge/Open%20in%20One%20Drive-blue.svg?logo=od)](https://liveunibo-my.sharepoint.com/:f:/g/personal/lorenzo_stacchio_studio_unibo_it/Ejpi9KHlG1xLr0ou_1yoQiUBdYcD4P0N9R0BOeM7CCbM5g?e=huJESf)|
+| 05/04/2022  | Orange image classification | [Lorenzo Stacchio](https://www.unibo.it/sitoweb/lorenzo.stacchio2) | [06_Orange.pdf](06_orange_classification/06_Orange_classification.pdf)                                                   | [![Open in One Drive](https://custom-icon-badges.herokuapp.com/badge/Open%20in%20One%20Drive-blue.svg?logo=od)](https://liveunibo-my.sharepoint.com/:f:/g/personal/lorenzo_stacchio_studio_unibo_it/Ejpi9KHlG1xLr0ou_1yoQiUBdYcD4P0N9R0BOeM7CCbM5g?e=huJESf)|
 | 11/04/2022 <br> 12/04/2022  | Class project with Orange | [Lorenzo Stacchio](https://www.unibo.it/sitoweb/lorenzo.stacchio2) | [07_project.pdf](07_project/07_project.pdf)                          | Not present |-->
