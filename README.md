@@ -1,4 +1,4 @@
-# AI-For-Fashion
+# Artificial Intelligence For Fashion - Academic course
 <p align="right">
 <a><img src="https://visitor-badge.laobi.icu/badge?page_id=lorenzo-stacchio.AI-For-Fashion" alt="visitors"></a>
 </p>
