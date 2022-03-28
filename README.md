@@ -29,8 +29,12 @@ The main textboook adopted in this course is:
 }
 ```
 
-## Course Program
+## Softwares used in class
 
+- [Orange Data Mining](https://orangedatamining.com/)
+- [Google Colab](https://research.google.com/colaboratory/)
+
+## Course Program
 
 | Data  | Argomento | Docente | Slide| Practical material |
 | ------------- | ------------- | ------------- |-----------------------------------------------------------------------------------------------------------------| ------------- |
