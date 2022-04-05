@@ -3,7 +3,7 @@
 	<nodes>
 		<node id="0" name="Import Images" qualified_name="orangecontrib.imageanalytics.widgets.owimageimport.OWImportImages" project_name="Orange3-ImageAnalytics" version="" title="Import Images" position="(276.0, 395.0)" />
 		<node id="1" name="Image Embedding" qualified_name="orangecontrib.imageanalytics.widgets.owimageembedding.OWImageEmbedding" project_name="Orange3-ImageAnalytics" version="" title="Image Embedding" position="(452.0, 388.0)" />
-		<node id="2" name="Hierarchical Clustering" qualified_name="Orange.widgets.unsupervised.owhierarchicalclustering.OWHierarchicalClustering" project_name="Orange3" version="" title="Hierarchical Clustering" position="(1027.0, 389.0)" />
+		<node id="2" name="Hierarchical Clustering" qualified_name="Orange.widgets.unsupervised.owhierarchicalclustering.OWHierarchicalClustering" project_name="Orange3" version="" title="Hierarchical Clustering" position="(1030.0, 386.0)" />
 		<node id="3" name="Data Table" qualified_name="Orange.widgets.data.owtable.OWDataTable" project_name="Orange3" version="" title="Data Table" position="(643.0, 394.0)" />
 		<node id="4" name="Distances" qualified_name="Orange.widgets.unsupervised.owdistances.OWDistances" project_name="Orange3" version="" title="Distances" position="(833.0, 384.0)" />
 		<node id="5" name="Image Grid" qualified_name="orangecontrib.imageanalytics.widgets.owimagegrid.OWImageGrid" project_name="Orange3-ImageAnalytics" version="" title="Image Grid" position="(597.0, 191.0)" />
@@ -755,7 +755,7 @@ KYGUfZQojAZ2YWx1ZXOUfZQojAlpbWFnZUF0dHKUSwBK/v///4aUjAl0aXRsZUF0dHKUSwBK/v//
 YW1llEsDjAVpbWFnZZRLA4wEc2l6ZZRLAowFd2lkdGiUSwKMBmhlaWdodJRLAnV1YmF1Lg==
 </properties>
 		<properties node_id="7" format="pickle">gASVOk0AAAAAAAB9lCiMCmF1dG9Db21taXSUiIwSY29udHJvbEFyZWFWaXNpYmxllIiMCWltYWdl
-U2l6ZZRLwIwTc2F2ZWRXaWRnZXRHZW9tZXRyeZRDQgHZ0MsAAwAAAAAELwAAAFUAAAdZAAAC0QAA
+U2l6ZZRLwIwTc2F2ZWRXaWRnZXRHZW9tZXRyeZRDQgHZ0MsAAwAAAAAELwAAAHoAAAdZAAAC0QAA
 BC8AAAB6AAAHWQAAAtEAAAAAAAAAAAeAAAAELwAAAHoAAAdZAAAC0ZSMC19fdmVyc2lvbl9flEsB
 jBBjb250ZXh0X3NldHRpbmdzlF2UjBVvcmFuZ2V3aWRnZXQuc2V0dGluZ3OUjAdDb250ZXh0lJOU
 KYGUfZQojAZ2YWx1ZXOUfZQojAlpbWFnZUF0dHKUSwBK/v///4aUjAl0aXRsZUF0dHKUSwBK/v//
