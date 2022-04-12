@@ -44,6 +44,12 @@ The main textboook adopted in this course is:
 | 28/03/2022  | Data visualization and Orange | [Alessia Angeli](https://www.unibo.it/sitoweb/alessia.angeli2) | [03_visualization.pdf](03_visualization/03_visualization.pdf) <br> [03_visualization_orange.pdf](03_visualization/03_visualization_orange.pdf)| [![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1xGUhR6MsClkBa39tXnpkdnzZxUAiilC9?usp=sharing) |
 | 29/03/2022  | Python and ML Classification with sklearn| [Lorenzo Stacchio](https://www.unibo.it/sitoweb/lorenzo.stacchio2) | [04_python_classification.pdf](04_python_classification/04_python_classification.pdf)| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/126z5HVvMpD1p2YEisxz6yR7wFKlQwcH8?usp=sharing) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1j1DfbZfINXmmWpop2CK0okEfbGT98AE4?usp=sharing) |
 | 04/04/2022 <br>  05/04/2022 | Machine learning classification with Orange | [Lorenzo Stacchio](https://www.unibo.it/sitoweb/lorenzo.stacchio2) | [05_orange_classification.pdf](05_orange_classification/05_orange_classification.pdf)                                                   | [![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1fKqmkTCwZHhPaSxSjjEDBSy5ElbMhzu6?usp=sharing)|
-| 11/04/2022 <br> 12/04/2022  | Professional vs customer photos visual relationship: a simple project with Orange | [Lorenzo Stacchio](https://www.unibo.it/sitoweb/lorenzo.stacchio2) | [06_final_project.pdf](06_final_project/06_final_project.pdf)                          | [![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1Kpo2DSr5eg9e0xM9jlnAklpdwFnkfYZO?usp=sharing)|
+| 11/04/2022 <br> 12/04/2022  | Professional vs customer photos visual relationship: a simple project with Orange | [Lorenzo Stacchio](https://www.unibo.it/sitoweb/lorenzo.stacchio2) | [06_final_project.pdf](06_final_project/06_final_project.pdf)                          | [![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1RaSQOPe5AkLN1KQ4_lVRgNBFWeFiiP5R?usp=sharing)|
+
+
+
+## Student projects
+
+
 
 
