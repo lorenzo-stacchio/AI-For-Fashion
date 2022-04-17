@@ -26,7 +26,16 @@ We are not here to solve one of the most difficult Computer Vision problems in t
 ## Students projects
 | Student  | Project Folder |
 | ------------- | ------------- |
-| Name surname | [![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)]()|
+| Yixun Chen AIFF 2022 | [![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1uilvLuxW3VmTzYfxCGCQdRc2-gHmD_Nw)|
+| chuhan zhang AIFF 2022 | [![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1tvCIMPhx8ibc4sc4__YhQAfuZpnc9d9_)|
+| Liliya Ivashchuk AIFF 2022 | [![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/15YSgF42MVEsErjYZ_JC7Hh5d9GfOl9cA)|
+| zoe marinelli AIFF 2022 | [![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1g6jq0Q0F1UVwlKgqv93QPlxx5ZvArnya)|
+| ALESSIA MARGHERITA AIFF 2022 | [![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/19VWS8KPtZsTZoxwdSFpLe-tMYsC9nzJu)|
+| Sara Capodiferro AFF 2022 | [![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1YapmCvLeWsNtnf6RTFrKjO8lQq4xzex3)|
+| Luanna Amancio de Almeida AIFF 2022 | [![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1J9Gxcle7IeJM7qy9XDAuVhgGnqm_VfoM)|
+| morgana vignuda AIFF 2022 | [![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1Kzkj3pPoWE2CoERcyiLQjXfYyf4kPYYK)|
+| Weiyi Li AIFF 2022 | [![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1j1yo9Swc6Zkn8HvIgRHcIxU3kjZanjBi)|
+
 
 ## References
 
